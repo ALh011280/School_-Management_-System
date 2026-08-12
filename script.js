@@ -6,3 +6,6 @@ function second_test(){
     alert("This is second testing");
 };
 
+function third_test(){
+    alert("This is third testing");
+}   
