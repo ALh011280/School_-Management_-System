@@ -33,3 +33,7 @@ function eighth_test(){
 function ninth_test(){
     alert("This is ninth testing");
 }
+
+function tenth_test(){
+    alert("This is tenth testing");
+}
