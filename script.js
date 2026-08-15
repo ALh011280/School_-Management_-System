@@ -13,3 +13,7 @@ function third_test(){
 function fourth_test(){
     alert("This is fourth testing");
 }
+
+function fifth_test(){
+    alert("This is fifth testing");
+}
