@@ -25,3 +25,7 @@ function sixth_test(){
 function seventh_test(){
     alert("This is seventh testing");
 }
+
+function eighth_test(){
+    alert("This is eighth testing");
+}
