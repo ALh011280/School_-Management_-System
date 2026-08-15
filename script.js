@@ -17,3 +17,7 @@ function fourth_test(){
 function fifth_test(){
     alert("This is fifth testing");
 }
+
+function sixth_test(){
+    alert("This is sixth testing");
+}
