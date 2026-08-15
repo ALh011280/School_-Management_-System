@@ -8,4 +8,8 @@ function second_test(){
 
 function third_test(){
     alert("This is third testing");
-}   
+}
+
+function fourth_test(){
+    alert("This is fourth testing");
+}
