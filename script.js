@@ -21,3 +21,7 @@ function fifth_test(){
 function sixth_test(){
     alert("This is sixth testing");
 }
+
+function seventh_test(){
+    alert("This is seventh testing");
+}
